@@ -1,0 +1,3 @@
+[submodule "lib/WIFIMANAGER-ESP32"]
+	path = lib/WIFIMANAGER-ESP32
+	url = https://github.com/etrinh/WIFIMANAGER-ESP32.git
